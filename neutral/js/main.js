@@ -94,7 +94,7 @@
 			stagePadding: 0,
 			nav: false,
 			dots: true,
-			navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
+			navText: ['<span class="fa fa-angle-left">', '<span class="fa fa-angle-right">'],
 			responsive:{
 				0:{
 					items: 1
@@ -117,7 +117,7 @@
 			stagePadding: 0,
 			nav: false,
 			dots: true,
-			navText: ['<span class="ion-ios-arrow-back">', '<span class="ion-ios-arrow-forward">'],
+			navText: ['<span class="fa fa-angle-left">', '<span class="fa fa-angle-right">'],
 			responsive:{
 				0:{
 					items: 1

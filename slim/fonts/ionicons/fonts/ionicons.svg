@@ -68,7 +68,7 @@ l17 -29l27 -46c3 -4 7 -7 12 -7c3 0 6 1 8 2c7 4 9 13 5 20l-19 31v0h26z" />
     <glyph glyph-name="ion-ios-archive" unicode="&#xf10e;" 
 d="M412 328h-408c-2 0 -4 2 -4 4v20c0 18 14 32 32 32h352c18 0 32 -14 32 -32v-20c0 -2 -2 -4 -4 -4zM392 302c4 0 8 -4 8 -8v-262c0 -18 -14 -32 -32 -32h-320c-18 0 -32 14 -32 32v262c0 4 4 8 8 8h368zM258 160c8 0 15 8 14 16c-1 7 -7 12 -14 12h-100
 c-8 0 -15 -8 -14 -16c1 -7 7 -12 14 -12h100z" />
-    <glyph glyph-name="ion-ios-arrow-back" unicode="&#xf3cf;" horiz-adv-x="192" 
+    <glyph glyph-name="fa fa-angle-left" unicode="&#xf3cf;" horiz-adv-x="192" 
 d="M58 192l127 -127c9 -9 9 -25 0 -34c-5 -5 -11 -7 -17 -7s-12 2 -17 7l-145 145c-9 9 -8 24 1 33l144 144c9 9 25 9 34 0s9 -25 0 -34z" />
     <glyph glyph-name="ion-ios-arrow-down" unicode="&#xf3d0;" horiz-adv-x="336" 
 d="M168 154l127 127c9 9 25 9 34 0s9 -25 0 -34l-144 -144c-9 -9 -24 -10 -33 -1l-145 145c-5 5 -7 11 -7 17s2 12 7 17c9 9 25 9 34 0z" />
@@ -92,7 +92,7 @@ d="M208 -16c-115 0 -208 93 -208 208s93 208 208 208s208 -93 208 -208s-93 -208 -20
     <glyph glyph-name="ion-ios-arrow-dropup" unicode="&#xf116;" 
 d="M100 147c-8 8 -8 19 0 27l95 95c7 7 19 8 27 1l94 -94c4 -4 6 -9 6 -14s-2 -9 -6 -13c-8 -8 -19 -8 -27 0l-81 79l-81 -81c-8 -8 -19 -8 -27 0zM208 -16c-115 0 -208 93 -208 208s93 208 208 208s208 -93 208 -208s-93 -208 -208 -208zM208 16c47 0 91 19 124 52
 s52 77 52 124s-19 91 -52 124s-77 52 -124 52s-91 -19 -124 -52s-52 -77 -52 -124s19 -91 52 -124s77 -52 124 -52z" />
-    <glyph glyph-name="ion-ios-arrow-forward" unicode="&#xf3d1;" horiz-adv-x="192" 
+    <glyph glyph-name="fa fa-angle-right" unicode="&#xf3d1;" horiz-adv-x="192" 
 d="M134 192l-127 127c-9 9 -9 25 0 34s25 9 34 0l144 -144c9 -9 10 -24 1 -33l-145 -145c-5 -5 -11 -7 -17 -7s-12 2 -17 7c-9 9 -9 25 0 34z" />
     <glyph glyph-name="ion-ios-arrow-round-back" unicode="&#xf117;" horiz-adv-x="288" 
 d="M104 284c5 -5 5 -13 0 -18l-60 -61h231c7 0 13 -6 13 -13s-6 -13 -13 -13h-231l60 -61c5 -5 5 -13 0 -18s-13 -5 -18 0l-82 83v0c-1 1 -2 2 -3 4s-1 3 -1 5c0 3 2 7 4 9l82 83c5 5 13 5 18 0z" />
