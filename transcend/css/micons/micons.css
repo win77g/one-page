@@ -291,7 +291,7 @@
 .icon-headset:before {
     content: "\e958";
 }
-.icon-heart:before {
+.fa fa-heart:before {
     content: "\e959";
 }
 .icon-hide-sdebar-vert:before {
@@ -450,7 +450,7 @@
 .icon-paint-brush:before {
     content: "\e98d";
 }
-.icon-paper-plane:before {
+.fa fa-envelope-o:before {
     content: "\e98e";
 }
 .icon-pause:before {

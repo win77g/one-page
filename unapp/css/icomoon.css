@@ -96,7 +96,7 @@
 .icon-cog2:before {
   content: "\e07b";
 }
-.icon-heart3:before {
+.fa fa-heart3:before {
   content: "\e07c";
 }
 .icon-paragraph:before {
@@ -258,7 +258,7 @@
 .icon-anchor2:before {
   content: "\e0b1";
 }
-.icon-globe2:before {
+.fa fa-internet-explorer2:before {
   content: "\e0b2";
 }
 .icon-box:before {
@@ -414,7 +414,7 @@
 .icon-ellipsis:before {
   content: "\e129";
 }
-.icon-heart4:before {
+.fa fa-heart4:before {
   content: "\e900";
 }
 .icon-cloud4:before {
@@ -765,7 +765,7 @@
 .icon-hotairballoon:before {
   content: "\e044";
 }
-.icon-globe:before {
+.fa fa-internet-explorer:before {
   content: "\e045";
 }
 .icon-genius:before {
@@ -780,7 +780,7 @@
 .icon-chat:before {
   content: "\e049";
 }
-.icon-heart:before {
+.fa fa-heart:before {
   content: "\e04a";
 }
 .icon-cloud:before {
@@ -837,10 +837,10 @@
 .icon-sad:before {
   content: "\e05c";
 }
-.icon-facebook:before {
+.fa fa-facebook:before {
   content: "\e05d";
 }
-.icon-twitter:before {
+.fa fa-twitter:before {
   content: "\e05e";
 }
 .icon-googleplus:before {
@@ -1056,7 +1056,7 @@
 .icon-lifebuoy:before {
   content: "\e971";
 }
-.icon-phone2:before {
+.fa fa-phone:before {
   content: "\e972";
 }
 .icon-phone-hang-up:before {
@@ -1512,10 +1512,10 @@
 .icon-star-full:before {
   content: "\ea09";
 }
-.icon-heart2:before {
+.fa fa-heart2:before {
   content: "\ea0a";
 }
-.icon-heart-broken:before {
+.fa fa-heart-broken:before {
   content: "\ea0b";
 }
 .icon-man:before {
@@ -2043,13 +2043,13 @@
 .icon-google3:before {
   content: "\eaba";
 }
-.icon-google-plus:before {
+.fa fa-google-plus:before {
   content: "\eaunapp";
 }
-.icon-google-plus2:before {
+.fa fa-google-plus2:before {
   content: "\eabc";
 }
-.icon-google-plus3:before {
+.fa fa-google-plus3:before {
   content: "\eabd";
 }
 .icon-hangouts:before {
@@ -2058,13 +2058,13 @@
 .icon-google-drive:before {
   content: "\eabf";
 }
-.icon-facebook2:before {
+.fa fa-facebook2:before {
   content: "\eac0";
 }
-.icon-facebook22:before {
+.fa fa-facebook22:before {
   content: "\eac1";
 }
-.icon-instagram:before {
+.fa fa-instagram:before {
   content: "\eac2";
 }
 .icon-whatsapp:before {
@@ -2076,7 +2076,7 @@
 .icon-telegram:before {
   content: "\eac5";
 }
-.icon-twitter2:before {
+.fa fa-twitter2:before {
   content: "\eac6";
 }
 .icon-vine:before {

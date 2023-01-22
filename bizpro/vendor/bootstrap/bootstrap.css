@@ -309,7 +309,7 @@ th {
 .glyphicon-search:before {
   content: "\e003";
 }
-.glyphicon-heart:before {
+.glyphfa fa-heart:before {
   content: "\e005";
 }
 .glyphicon-star:before {
@@ -687,7 +687,7 @@ th {
 .glyphicon-circle-arrow-down:before {
   content: "\e134";
 }
-.glyphicon-globe:before {
+.glyphfa fa-internet-explorer:before {
   content: "\e135";
 }
 .glyphicon-wrench:before {
@@ -711,7 +711,7 @@ th {
 .glyphicon-paperclip:before {
   content: "\e142";
 }
-.glyphicon-heart-empty:before {
+.glyphfa fa-heart-empty:before {
   content: "\e143";
 }
 .glyphicon-link:before {
